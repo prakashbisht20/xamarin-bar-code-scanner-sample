@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="BarCodeScanner\BarCodeScanner.Droid\BarCodeScanner.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.260c9fc1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BarCodeScanner\BarCodeScanner.Droid\MainActivity.cs">
+    <Files>
+      <File FileName="BarCodeScanner\BarCodeScanner\HomePage.cs" Line="37" Column="28" />
+      <File FileName="BarCodeScanner\BarCodeScanner\App.cs" Line="1" Column="1" />
+      <File FileName="BarCodeScanner\BarCodeScanner.Droid\MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
